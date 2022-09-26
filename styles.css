@@ -33,7 +33,7 @@ h3{
 }
 .contact-tagline{
 	font-family: "lato";
-	color: lawngreen;
+	color: grey;
 }
 h2{
 	font-size: 20px;
@@ -98,7 +98,7 @@ a{
 	left: 0;
 	width: 15%;
 	height: 9%;
-	background-color: lawngreen;
+	background-color: lightgray;
 	text-align: center;
 }
 .line{
@@ -171,7 +171,7 @@ li a:hover{
 	position: absolute;
 	top: 20%;
 	right: 0;
-	background-color: lawngreen;
+	background-color: lightgray;
 }
 .strip{
 	position: absolute;
@@ -249,7 +249,7 @@ li a:hover{
 	left: 0;
 	width: 30%;
 	height: 35%;
-	background-color: lawngreen;
+	background-color: lightgray;
 }
 .box{
 	position: absolute;
@@ -313,7 +313,7 @@ li a:hover{
 	right: 0;
 	width: 10%;
 	height: 80%;
-	background-color: limegreen;
+	background-color: lightgray;
 }
 .strip3{
 	position: absolute;
@@ -329,7 +329,7 @@ li a:hover{
 	left: 0;
 	width: 10%;
 	height: 80%;
-	background-color: lawngreen;
+	background-color: lightgray;
 }
 
 .photo{
@@ -359,7 +359,7 @@ li a:hover{
 	font-family: "lato";
 }
 .imp{
-	color: green;
+	color: lightgray;
 	padding-left: 30px; 
 }
 .imp2{
@@ -504,7 +504,7 @@ li a:hover{
 .cover{
 	width: 100%;
 	height: 100%;
-	background-color: lawngreen;
+	background-color: lightgray;
 	transform: skewY(-3deg);
 }
 .projects-container{
@@ -631,13 +631,13 @@ li a:hover{
 	left: 0;
 	width: 15%;
 	height: 28%;
-	background-color: lawngreen;
+	background-color: lightgray;
 	text-align: center;
 }
 .scroll-indicator{
 	width: 40px;
 	height: 40px;
-	background-color: lawngreen;
+	background-color: lightgray;
 	position: absolute;
 	top: 45%;
 	left: 11.25%;
@@ -660,7 +660,7 @@ li a:hover{
 }
 
 .footer-link:hover {
-  color: green;
+  color: lawngreen;
 }
 .footer-social-icons ul{
     margin: 0px;
@@ -696,19 +696,19 @@ li a:hover{
     width: 100%;
     height: 100%;
     border-radius: 50%;
-    background: green;
+    background: lawngreen;
     transition: .5s;
     transform: scale(.9);
     z-index: -1;
 }
 .footer-social-icons ul li a:hover:before{
     transform: scale(1.1);
-    box-shadow: 0 0 15px green;
+    box-shadow: 0 0 15px lawngreen;
 }
 .footer-social-icons ul li a:hover{
-    color: green;
-    box-shadow: 0 0 5px green;
-    text-shadow: 0 0 5px green;
+    color: lawngreen;
+    box-shadow: 0 0 5px lawngreen;
+    text-shadow: 0 0 5px lawngreen;
 }
 .sidebar2{
 	width: 30%;
@@ -716,7 +716,7 @@ li a:hover{
 	position: absolute;
 	top: 0;
 	right: 0;
-	background-color: lawngreen;
+	background-color: gray;
 	text-align: center;
 }
 .strip2{
