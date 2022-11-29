@@ -19,7 +19,7 @@ h3{
 }
 
 .intro-title {
-	color: lawngreen;
+	color: rgb(70, 182, 226);
 }
 
 .project-title{
@@ -74,7 +74,7 @@ a{
 
 .loader .intro h3{
 	font-size: 120px;
-	color: lawngreen;
+	color: rgb(0, 202, 252);
 }
 @keyframes loader{
 	0%{
@@ -133,7 +133,7 @@ li a{
 	cursor: pointer;
 }
 li a:hover{
-	text-decoration-color: lawngreen;
+	text-decoration-color: rgb(51, 163, 207);
 	text-decoration: line-through;
 }
 .nav-btn{
@@ -399,7 +399,7 @@ li a:hover{
     left: 0;
     width: 100%;
     height: 15px;
-    background-color: lawngreen;
+    background-color: rgb(70, 188, 224);
     box-shadow: 0px 8px 15px rgba(0,0,0,.4);
     border-radius: 1000px;
 }
@@ -660,7 +660,7 @@ li a:hover{
 }
 
 .footer-link:hover {
-  color: lawngreen;
+  color: rgb(0, 172, 252);
 }
 .footer-social-icons ul{
     margin: 0px;
@@ -696,19 +696,19 @@ li a:hover{
     width: 100%;
     height: 100%;
     border-radius: 50%;
-    background: lawngreen;
+    background: rgb(49, 160, 211);
     transition: .5s;
     transform: scale(.9);
     z-index: -1;
 }
 .footer-social-icons ul li a:hover:before{
     transform: scale(1.1);
-    box-shadow: 0 0 15px lawngreen;
+    box-shadow: 0 0 15px rgb(0, 193, 252);
 }
 .footer-social-icons ul li a:hover{
-    color: lawngreen;
-    box-shadow: 0 0 5px lawngreen;
-    text-shadow: 0 0 5px lawngreen;
+    color: rgb(0, 181, 252);
+    box-shadow: 0 0 5px rgb(0, 181, 252);
+    text-shadow: 0 0 5px rgb(0, 214, 252);
 }
 .sidebar2{
 	width: 30%;
